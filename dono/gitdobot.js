@@ -1,6 +1,6 @@
 const gitdobot = (prefix) => {
 return`
-SÓ NO CANAL DO MEU CRIADOR^-^ LÁ TEM O VÍDEO, O LINK DO BOT TA NA DESCRIÇÃO:) https://youtube.com/channel/UCPEVqKFH45x4grF2qk3fldw
+SOLO EN EL CANAL DE MI CREADOR ^-^ AHI ESTA EL VIDEO, EL LINK DEL BOT ESTA EN LA DESCRIPCION :) https://chat.whatsapp.com/C5gbjdSlAGm5HjGUc3tv9S
 `
 }
 
